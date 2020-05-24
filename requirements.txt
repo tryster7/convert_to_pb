@@ -1,0 +1,4 @@
+tensorflow
+gcsfs
+google-cloud
+google-cloud-storage
